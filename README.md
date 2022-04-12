@@ -7,3 +7,7 @@
 <p>
   Aplicando as leis físicas envolvidas no movimento, o projeto busca modelar um salto de paraquedas da estratosfera (Red Bull Stratos) e simular situações mudando algumas variáveis envolvidas.
 </p>
+</br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/92753945/163019184-0bfe2e49-f61c-4ba6-9e98-67d4d7400f71.png" width=700px>
+</div>
